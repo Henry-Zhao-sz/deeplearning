@@ -1,4 +1,4 @@
-# deeplearning
+# Hung-yi Lee's Machine Learning Course
 
 ### This is a repository which contains the code of the homework of Hung-yi Lee's Machine Learning Course 2022.
 
